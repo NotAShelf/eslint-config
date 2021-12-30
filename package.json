@@ -9,7 +9,7 @@
   "license": "MIT",
   "main": "index.js",
   "author": "NotAShelf <me@notashelf.dev>",
-  "repository": "https://git.frozendev.tk/NotAShelf/eslint-config",
+  "repository": "https://github.com/NotAShelf/eslint-config",
   "devDependencies": {
     "eslint": "7.32.0",
     "typescript": "4.5.4"
